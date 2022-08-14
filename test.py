@@ -1,4 +1,3 @@
-from genericpath import isfile
 import os , sys
 
 name = input("Enter the file name: ")
